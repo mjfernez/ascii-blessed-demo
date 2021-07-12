@@ -1,3 +1,4 @@
 simpleaudio
 blessed
 asciimatics
+pygame
